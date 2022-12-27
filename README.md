@@ -19,8 +19,11 @@ a script for changing the background every a specific period of time
  a file for installing the requirments of a project in case you don't have pycharm to install it for you
  
  ### multiplatform 
- an encryption script that supposedly to work on any plaform 
+ an encryption script that was supposed to work on any plaform 
  it need some testing and fixaiton in the ending part of it
+ 
+ ## whatsapp messages sender  
+ spam your friend's inbox (just a cool script using pyautogui)
  
  
 finally you can fork it and share your own cool scripts, lets make it big.
