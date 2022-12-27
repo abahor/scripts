@@ -23,7 +23,7 @@ a script for changing the background every a specific period of time
  it need some testing and fixaiton in the ending part of it
  
  ## whatsapp messages sender  
- spam your friend's inbox (just a cool script using pyautogui)
+ spam your friend's inbox (just a cool script using [pyautogui](https://pypi.org/project/PyAutoGUI/) go check it out!)
  
  
 finally you can fork it and share your own cool scripts, lets make it big.
